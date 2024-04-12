@@ -1,8 +1,8 @@
 {
   "greeting": "Hello",
   "name": "Aunty",
-  "greetingText": "To the beautiful lady",
-  "wishText": "And always keep smiling:)",
+  "greetingText": "To the beautiful lady!",
+  "wishText": "And keep spreading your special smile!",
   "imagePath": "img/lydia5.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday Aunty!! Yeaa! Many many happy returns...",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday   Aunty!",
-  "outroText": "Okay, let me know if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Hope you liked it.",
+  "replayText": "Click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
